@@ -1,9 +1,9 @@
 {
-  "name": "simple-server",
+  "name": "tilemaps-example",
   "version": "1.0.0",
-  "description": "Simple HTTP Web Server",
+  "description": "Tilemaps Example",
   "main": "app.js",
-  "author": "Chyld Medford <chyld.medford@gmail.com>",
+  "author": "Melanie Fryman <melanie@frymanet.com>",
   "license": "MIT",
   "dependencies": {
     "connect": "^3.3.0",
